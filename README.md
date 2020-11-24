@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
  ⚡ Despite the designer traits, I'm still a backend developer at heart. I mainly work with Python, Django, Flask, JavaScript/Typescript, and Node.js, but am a fast learner and open to learning new technologies, which I do fairly quickly.
  
- 🌱 If you'd like to support me, you can [buy me a coffee](https://buymeacoffee.com/georgemunyoro)
+:coffee: If you'd like to support me, you can [buy me a coffee](https://buymeacoffee.com/georgemunyoro)
