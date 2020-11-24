@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 😄 I love code, there's just something about building software that excites me. I love learning, and on most free days, I can usually be found at my computer, leisurely reading documentation or relaxing on the couch with a cup of something nice, and an O'Reilly book.
+ 😄 I love code, there's just something about building software that excites me. I love learning, and on most free days, I can usually be found at my computer, leisurely reading documentation or relaxing on the couch with a cup of something nice, and a programming book.
 
  🌱 I'm something of an artist in my spare time, and enjoy drawing, photography and architecture. I love beautiful things, and I always try and incorporate this in my work. Not only am I driven to build great software, but to build great software that looks great.
 
