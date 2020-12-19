@@ -24,5 +24,5 @@ Here are some ideas to get you started:
  ⚡ On the frontend, I've worked with Vue and React, my favorite tools for building user interfaces on the web. I've also worked extensively with Bootstrap and Bulma, as well as having a good understanding of CSS and SASS for building beautiful, responsive web applications quickly.
 
  ⚡ Despite the designer traits, I'm still a backend developer at heart. I mainly work with Python, Django, Flask, JavaScript/Typescript, and Node.js, but am a fast learner and open to learning new technologies, which I do fairly quickly.
- 
-:coffee: If you'd like to support me, you can [buy me a coffee](https://buymeacoffee.com/georgemunyoro), thank you.
+ :)
+:coffee: If you'd like to support me, you can [buy me a coffee](https://buymeacoffee.com/georgemunyoro), thank you :)
