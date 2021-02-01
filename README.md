@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 😄 I love code, there's just something about building software that excites me. I love learning, and on most free days, I can usually be found at my computer, leisurely reading documentation or relaxing on the couch with a cup of something nice, and a programming book.
+ 😄 I love code, there's just something about building software that excites me. I love learning, and on most free days, I can usually be found at my computer hacking away at some code, leisurely reading documentation or relaxing on the couch with a cup of something nice, and my laptop of course.
 
- 🌱 I'm something of an artist in my spare time, and enjoy drawing, photography and architecture. I love beautiful things, and I always try and incorporate this in my work. Not only am I driven to build great software, but to build great software that looks great.
-
- ⚡ On the frontend, I've worked with Vue and React, my favorite tools for building user interfaces on the web. I've also worked extensively with Bootstrap and Bulma, as well as having a good understanding of CSS and SASS for building beautiful, responsive web applications quickly.
-
- ⚡ Despite the designer traits, I'm still a backend developer at heart. I mainly work with Python, Django, Flask, JavaScript/Typescript, and Node.js, but am a fast learner and open to learning new technologies, which I do fairly quickly.
- :)
-
-:coffee: If you'd like to support me, you can [buy me a coffee](https://buymeacoffee.com/georgemunyoro), thank you :)
+ 💬 If there's a computer, and especially programming involved, I'm almost certainly interested. If you'd like to support me, you can [buy me a coffee](https://buymeacoffee.com/georgemunyoro) :coffee: :)
