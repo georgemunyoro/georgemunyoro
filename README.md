@@ -1,5 +1,5 @@
 
-![georgemunyoro](https://i.imgur.com/heDaawz.png)
+<!--[georgemunyoro](https://i.imgur.com/heDaawz.png)-->
 
 ## Hi there, George here 👋
 
