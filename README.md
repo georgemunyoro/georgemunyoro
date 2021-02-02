@@ -21,6 +21,3 @@ Here are some ideas to get you started:
 
  💬 If there's a computer, and especially programming involved, I'm almost certainly interested. If you'd like to support me, you can [buy me a coffee](https://buymeacoffee.com/georgemunyoro) :coffee: :)
  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgemunyoro&show_icons=true&locale=en&layout=compact" alt="georgemunyoro" /></p>
- 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=georgemunyoro&show_icons=true&locale=en" alt="georgemunyoro" /></p>
