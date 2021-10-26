@@ -12,7 +12,7 @@
 - 📝 I regularly write articles on [georgemunyoro.me/blog](georgemunyoro.me/blog)
 
 - 📫 How to reach me **twitter.com/george_munyoro**
-
+<!--
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
