@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **AI, P2P, emulator development**
 
-- 👨‍💻 All of my projects are available at [github.com/georgemunyoro](github.com/georgemunyoro)
+- 👨‍💻 All of my projects are available at [https://github.com/georgemunyoro](github.com/georgemunyoro)
 
-- 📝 I regularly write articles on [munyoro.com/blog](munyoro.com/blog)
+- 📝 I regularly write articles on [https://munyoro.com/blog](munyoro.com/blog)
 
 - 📫 How to reach me **twitter.com/george_munyoro**
 <!--
