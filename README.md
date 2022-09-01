@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/georgemunyoro](github.com/georgemunyoro)
 
-- 📝 I regularly write articles on [https://munyoro.com/blog](munyoro.com/blog)
+- 📝 I regularly write articles on [https://munyoro.com/blog](munyoro.com)
 
-- 📫 How to reach me **twitter.com/george_munyoro**
+- 📫 How to reach me **george@munyoro.com**
 <!--
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
