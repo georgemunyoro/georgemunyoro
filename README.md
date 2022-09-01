@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">A passionate developer from Cape Town</h3>
 
-<p align="left"> <a href="https://twitter.com/george_munyoro" target="blank"><img src="https://img.shields.io/twitter/follow/george_munyoro?logo=twitter&style=for-the-badge" alt="george_munyoro" /></a> </p>
-
 - 🔭 I’m currently working on [nonagon](https://github.com/georgemunyoro/nonagon)
 
 - 🌱 I’m currently learning **AI, P2P, emulator development**
