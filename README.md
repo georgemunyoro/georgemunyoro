@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [nonagon](https://github.com/georgemunyoro/nonagon)
 
-- 🌱 I’m currently learning **AI, P2P, emulator development**
+- 🌱 I’m currently playing around with **chess programming, AI/ML, emulator development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/georgemunyoro](github.com/georgemunyoro)
 
