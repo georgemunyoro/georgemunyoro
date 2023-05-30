@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">A passionate developer from Cape Town</h3>
 
-- 🔭 I’m currently working on [nonagon](https://github.com/georgemunyoro/nonagon)
+- 🔭 I’m currently working on [redtail](https://github.com/georgemunyoro/rusty-redtail) and [yachtimer](https://github.com/georgemunyoro/yachtimer)
 
 - 🌱 I’m currently playing around with **chess programming, AI/ML, emulator development**
 
