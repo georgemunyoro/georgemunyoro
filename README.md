@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/georgemunyoro](github.com/georgemunyoro)
 
-- 📝 I regularly write articles on [munyoro.com](http://munyoro.com)
+- 📝 I regularly write articles on [munyoro.com](https://www.munyoro.com)
 
 - 📫 How to reach me **george@munyoro.com**
 <!--
