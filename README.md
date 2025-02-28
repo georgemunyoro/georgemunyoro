@@ -18,7 +18,3 @@
 <a href="https://medium.com/@georgemunyoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@georgemunyoro" height="30" width="40" /></a>
 <a href="/http://fetchrss.com/rss/6177d210e8285a49a31d23726177d1f3b1c40611b03e1d52.atom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://fetchrss.com/rss/6177d210e8285a49a31d23726177d1f3b1c40611b03e1d52.atom" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgemunyoro&hide=CSS,HTML,Svelte&show_icons=true&locale=en&layout=compact" alt="georgemunyoro" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=georgemunyoro&" alt="georgemunyoro" /></p>
